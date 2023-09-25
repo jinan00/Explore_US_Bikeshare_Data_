@@ -23,3 +23,14 @@ Explore US Bikeshare Data is a Python-based project that provides an interactive
 Before you can use this project, make sure you have the following prerequisites installed:
 
 Python 3.x: You can download Python from https://www.python.org/downloads/ .
+
+#### Installation
+1. Clone the GitHub repository:
+git clone 
+
+2. Change the directory to the project folder:
+   cd explore-us-bikeshare-data
+
+3. Install the required Python libraries using pip:
+   pip install -r requirements.txt
+
